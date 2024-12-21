@@ -36,21 +36,13 @@ We use modern tools to ensure top-notch quality:
 ---
 
 ## 🤝 **Connect With Us**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)  
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://facebook.com/yourpage)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/intimealokbiswas)  
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://facebook.com/srialokbiswas)  
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/intimealok)  
 
 ---
 
 ## ⭐ **Contributing**  
-We welcome contributions! Please read our [Contributing Guidelines](https://intimewebs.com/contributing) before submitting any pull requests.
+We welcome contributions! Please read our [Contributing Guidelines](https://intimewebs.com/) before submitting any pull requests.
 
 ---
-
-## 📄 **License**  
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
-
----
-
-## 📷 **Preview**  
-![Project Screenshot](https://via.placeholder.com/800x400?text=Screenshot+of+our+project)  
