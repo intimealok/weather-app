@@ -30,8 +30,6 @@ We use modern tools to ensure top-notch quality:
 
 ## 📧 **Contact Us**  
 **Email:** [info@intimewebs.com](mailto:info@intimewebs.com)  
-**Phone:** +91-123-456-7890  
-**Address:** 123 Digital Lane, City, State, ZIP  
 
 ---
 
