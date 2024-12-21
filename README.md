@@ -1,5 +1,5 @@
 # **Welcome to Intime Webs GitHub Repository**  
-![Banner Image](https://via.placeholder.com/1200x400?text=Intime+Webs+-+Website%2C+IT+Services+%26+Design+Company)  
+![Banner Image](https://github.com/intimealok/weather-app/blob/main/images/Screenshot%20(150).png)  
 
 ## 🚀 **About Us**  
 **Intime Webs** specializes in:  
